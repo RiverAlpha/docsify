@@ -98,3 +98,31 @@ $$
 $$
 SE_{log_e(OR)} = \sqrt{\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}}
 $$
+
+* 代码翻译
+  
+```R
+####
+# Odds Ratio
+#### 
+# Define data
+grp1yes <- 45 # events in the treatment group
+grp1no <- 98 # non-events in the control group
+grp2yes <- 67 # events in the control group
+grp2no <- 76 # non-events in the control group
+# Calculate OR by setting es.type to "or"
+esc_2x2(grp1yes = grp1yes, grp1no = grp1no,
+        grp2yes = grp2yes, grp2no = grp2no,
+        es.type = "or")
+# Calculate logOR by setting es.type to "logit"
+esc_2x2(grp1yes = grp1yes, grp1no = grp1no,
+        grp2yes = grp2yes, grp2no = grp2no,
+        es.type = "logit")
+
+```
+
+* OR转RR
+
+$$
+RR = \frac{OR}{(1-\frac{c}{n_{control}})+(\frac{c}{n_{control}}*OR)}
+$$

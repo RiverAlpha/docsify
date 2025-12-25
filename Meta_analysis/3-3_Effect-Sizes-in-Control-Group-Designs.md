@@ -19,7 +19,7 @@ $n_1和n_2分别$代表第一二组的样本数
 * $s_{pooled}$
 
 $$
-S_{pooled} = \sqrt{\frac{(n_1-1)s^2+(n_2-1)^2}{(n_1-1)+(n_2-1)}}
+S_{pooled} = \sqrt{\frac{(n_1-1)s_1^2+(n_2-1)s_2^2}{(n_1-1)+(n_2-1)}}
 $$
 $s_1 s_2$分别代表各自的标准差
 
@@ -57,19 +57,19 @@ se
 两组均值差异经过​​标准化​​（除以 pooled standard deviation），消除单位影响，使结果可跨研究比较
 
 $$
-SMD_{between} = \frac{\overline{x_1}=\overline{x_2}}{S_{pooled}}
+SMD_{between} = \frac{\overline{x_1}-\overline{x_2}}{S_{pooled}}
 $$
 
 * 合并过后的标准差
   
 $$
-S_{pooled} = \sqrt{\frac{(n_1-1)s^2+(n_2-1)^2}{(n_1-1)+(n_2-1)}}
+S_{pooled} = \sqrt{\frac{(n_1-1)s_1^2+(n_2-1)s_2^2}{(n_1-1)+(n_2-1)}}
 $$
 
 * 对应的标准误差
 
 $$
-SE_{SMD_{between}} = \sqrt{\frac{n_1+n_2}{n_1n_2} + \frac{SMD^2_{betwenn}}{2(x_1+n_2)}}
+SE_{SMD_{between}} = \sqrt{\frac{n_1+n_2}{n_1n_2} + \frac{SMD^2_{betwenn}}{2(n_1+n_2)}}
 $$
 
 ```R
