@@ -24,3 +24,4 @@
 
 * 5.(机器学习)机器学习(WatermelonBook)
   * [chapter1](/WatermelonBook/chapter1.md)
+  * [线性模型](/WatermelonBook/1.leanerModel.md)
