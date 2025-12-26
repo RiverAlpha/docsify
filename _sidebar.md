@@ -1,15 +1,13 @@
-<!-- _sidebar.md -->
-
 * 1.(GBD相关)BAPC源码解读
   * [qapc函数](/BAPC/qapc.md) <!--注意这里是相对路径-->
 
-* 2.(网站部署)Docsify部署
-  * [Docsify部署教程](/BAPC/Docsify部署教程.md)
+* 2.(机器学习)机器学习(WatermelonBook)
+  * [1.线性模型](/WatermelonBook/1.leanerModel.md)
   
 * 3.(Mata分析相关)随机效应
   * [random effects model](/Systematic_Reviews_in_Health_Research_Meta-Analysis_in_Context/random_effects_model.md)
   
-* 4.(Mata分析相关)Meta_Analysis
+* 4.(Mata分析相关 R代码)Meta_Analysis
   * [Means](/Meta_analysis/3-2-1_Means.md)
   * [Proportions](/Meta_analysis/3-2-2_Proportions.md)
   * [Correlations](/Meta_analysis/3-2-3_Correlations.md)
@@ -22,6 +20,5 @@
   * [Effect-Size-Pooling-in-R](/Meta_analysis/Chapter_4/4-2_Effect-Size-Pooling-in-R.md)
   * [Measure-of-Heterogeneity](/Meta_analysis/Chapter_5/5-1_Measure-of-Heterogeneity.md)
 
-* 5.(机器学习)机器学习(WatermelonBook)
-  * [chapter1](/WatermelonBook/chapter1.md)
-  * [线性模型](/WatermelonBook/1.leanerModel.md)
+* 5.(网站部署)Docsify部署
+  * [Docsify部署教程](/BAPC/Docsify部署教程.md)
