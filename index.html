@@ -40,6 +40,8 @@
       plugins: [
         function(hook, vm) {
           hook.doneEach(function() {
+            // 1. 获取侧边栏元素
+          var sidebar = document.querySelector('.sidebar-nav');
             // 4. 手动调用 KaTeX 渲染
             // 只有当 window.renderMathInElement 加载完成后才执行
             if (typeof renderMathInElement !== 'undefined') {

@@ -3,6 +3,7 @@
 
 * 2.(机器学习)机器学习(WatermelonBook)
   * [1.线性模型](/WatermelonBook/1.leanerModel.md)
+  * [2.决策树](/WatermelonBook/2.Tree.md)
   
 * 3.(Mata分析相关)随机效应
   * [random effects model](/Systematic_Reviews_in_Health_Research_Meta-Analysis_in_Context/random_effects_model.md)
