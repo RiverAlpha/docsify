@@ -1,6 +1,13 @@
 * 1.(GBD相关)BAPC源码解读
   * [qapc函数](/BAPC/qapc.md) <!--注意这里是相对路径-->
 
+* 2.数据预处理
+  * [数据标准化](/数据预处理/数据清洗.md)
+  * [缺失值处理](/数据预处理/缺失值处理.md)
+
+* 3.优化算法
+  * [梯度下降](/Optimize/1.梯度下降.md)
+
 * 2.(机器学习)机器学习(WatermelonBook)
   * [1.线性模型](/WatermelonBook/1.leanerModel.md)
   * [2.决策树](/WatermelonBook/2.Tree.md)
