@@ -7,10 +7,15 @@
 
 * 3.优化算法
   * [梯度下降](/Optimize/1.梯度下降.md)
+* 4.任务目的
+  * [量化回归](/目的/2.回归.md)
+  * [定性分类](/目的/1.分类.md)
 
-* 2.(机器学习)机器学习(WatermelonBook)
+* 2.机器学习(WatermelonBook)
   * [1.线性模型](/WatermelonBook/1.leanerModel.md)
   * [2.决策树](/WatermelonBook/2.Tree.md)
+* 3.深度学习(Pytorch)
+  * [1.线性模型](/DeepLearning/linearRegression.md)
   
 * 3.(Mata分析相关)随机效应
   * [random effects model](/Systematic_Reviews_in_Health_Research_Meta-Analysis_in_Context/random_effects_model.md)
