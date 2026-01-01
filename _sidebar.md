@@ -15,7 +15,8 @@
   * [1.线性模型](/WatermelonBook/1.leanerModel.md)
   * [2.决策树](/WatermelonBook/2.Tree.md)
 * 3.深度学习(Pytorch)
-  * [1.线性模型](/DeepLearning/linearRegression.md)
+  * [1.线性模型](/DeepLearning/1.linearRegression.md)
+  * [2.多层感知机](/DeepLearning/2.MultilayerPerceptrons.md)
   
 * 3.(Mata分析相关)随机效应
   * [random effects model](/Systematic_Reviews_in_Health_Research_Meta-Analysis_in_Context/random_effects_model.md)
