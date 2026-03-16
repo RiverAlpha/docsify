@@ -1,5 +1,6 @@
 * 1.(GBD相关)BAPC源码解读
   * [qapc函数](/BAPC/qapc.md) <!--注意这里是相对路径-->
+  * [GBD相关参数](/BAPC/GBD_metrics.md)
 
 * 2.数据预处理
   * [数据标准化](/数据预处理/数据清洗.md)
@@ -17,6 +18,9 @@
 * 3.深度学习(Pytorch)
   * [1.线性模型](/DeepLearning/1.linearRegression.md)
   * [2.多层感知机](/DeepLearning/2.MultilayerPerceptrons.md)
+  * [3.卷积神经网络](/DeepLearning/3.CNN.md)
+  * [4.循环神经网络](/DeepLearning/4.RNN.md)
+  * [5.NanoGPT(GPT2)](/DeepLearning/5.NanoGPT.md)
   
 * 3.(Mata分析相关)随机效应
   * [random effects model](/Systematic_Reviews_in_Health_Research_Meta-Analysis_in_Context/random_effects_model.md)
@@ -36,3 +40,7 @@
 
 * 5.(网站部署)Docsify部署
   * [Docsify部署教程](/BAPC/Docsify部署教程.md)
+
+* 6.论文复现（石榴和贫血）
+  * [核心流程](/Example/石榴和贫血/核心流程.md)
+  * [数据预处理](/Example/石榴和贫血/数据预处理.md)
