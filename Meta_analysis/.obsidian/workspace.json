@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-2-1_Means.md",
+                "file": "3-2-3_Correlations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-2-1_Means"
+              "title": "3-2-3_Correlations"
             }
           }
         ]
@@ -169,5 +169,7 @@
     }
   },
   "active": "4840509ed39ef58f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3-2-1_Means.md"
+  ]
 }

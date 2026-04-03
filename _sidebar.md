@@ -2,6 +2,9 @@
   * [qapc函数](/BAPC/qapc.md) <!--注意这里是相对路径-->
   * [GBD相关参数](/BAPC/GBD_metrics.md)
 
+* 机器学习数学支撑
+  * [梯度下降](/数学支撑/梯度下降.md)
+
 * 2.数据预处理
   * [数据标准化](/数据预处理/数据清洗.md)
   * [缺失值处理](/数据预处理/缺失值处理.md)
@@ -20,6 +23,8 @@
   * [2.多层感知机](/DeepLearning/2.MultilayerPerceptrons.md)
   * [3.卷积神经网络](/DeepLearning/3.CNN.md)
   * [4.循环神经网络](/DeepLearning/4.RNN.md)
+  * [4.1 RNN code](/DeepLearning/4.RNN_Code.md)
+  * [5. LSTM](/DeepLearning/5.LSTM.md)
   * [5.NanoGPT(GPT2)](/DeepLearning/5.NanoGPT.md)
   
 * 3.(Mata分析相关)随机效应
