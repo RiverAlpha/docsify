@@ -18,6 +18,10 @@
 * 2.机器学习(WatermelonBook)
   * [1.线性模型](/WatermelonBook/1.leanerModel.md)
   * [2.决策树](/WatermelonBook/2.Tree.md)
+* 计算机视觉
+  * [1.CNN]
+  * [2.Unet](/CV/Unet.md)
+  * [3.ViT](/CV/ViT.mds)
 * 3.深度学习(Pytorch)
   * [1.线性模型](/DeepLearning/1.linearRegression.md)
   * [2.多层感知机](/DeepLearning/2.MultilayerPerceptrons.md)
